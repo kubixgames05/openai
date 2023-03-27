@@ -2,7 +2,7 @@ import random
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = ""
 model_engine = "code-davinci-002"
 
 def generate_response(question, eng):
